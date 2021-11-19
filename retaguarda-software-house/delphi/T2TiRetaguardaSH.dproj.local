@@ -5,6 +5,7 @@
     <File Path="Controller\Cadastros"/>
     <File Path="Controller\Cadastros\EmpresaController.pas"/>
     <File Path="Controller\Cadastros\AcbrMonitorPortaController.pas"/>
+    <File Path="Controller\Cadastros\CfopController.pas"/>
     <File Path="Controller\NFe"/>
     <File Path="Controller\NFe\NfeConfiguracaoController.pas"/>
     <File Path="Controller\PDV"/>
@@ -14,6 +15,7 @@
     <File Path="Model\Cadastros"/>
     <File Path="Model\Cadastros\Empresa.pas"/>
     <File Path="Model\Cadastros\AcbrMonitorPorta.pas"/>
+    <File Path="Model\Cadastros\Cfop.pas"/>
     <File Path="Model\NFe"/>
     <File Path="Model\NFe\NfeConfiguracao.pas"/>
     <File Path="Model\PDV"/>
@@ -27,6 +29,7 @@
     <File Path="Service\Cadastros"/>
     <File Path="Service\Cadastros\EmpresaService.pas"/>
     <File Path="Service\Cadastros\AcbrMonitorPortaService.pas"/>
+    <File Path="Service\Cadastros\CfopService.pas"/>
     <File Path="Service\NFe"/>
     <File Path="Service\NFe\NfeConfiguracaoService.pas"/>
     <File Path="Service\PDV"/>
@@ -42,5 +45,12 @@
     <File Path="UDataModuleConexao.dfm"/>
     <File Path="UWebModule.pas"/>
     <File Path="UWebModule.dfm"/>
-  </ProjectSortOrder>
+  </ProjectSortOrder>  <Transactions>
+    <Transaction>2021/11/18 13:31:43.516,=D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 13:32:25.799,D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Model\Cadastros\Cfop.pas=D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 13:43:23.676,=D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 13:44:03.077,D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Service\Cadastros\CfopService.pas=D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 16:17:56.547,=D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 16:18:50.305,D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Controller\Cadastros\CfopController.pas=D:\delphi\T2Ti-Pegasus-PDV\retaguarda-software-house\delphi\Unit1.pas</Transaction>
+  </Transactions>
 </BorlandProject>

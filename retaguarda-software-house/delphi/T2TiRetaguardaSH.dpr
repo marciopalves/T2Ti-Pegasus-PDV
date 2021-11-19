@@ -32,7 +32,10 @@ uses
   ObjetoPagSeguro in 'Model\Transiente\ObjetoPagSeguro.pas',
   AcbrMonitorPortaController in 'Controller\Cadastros\AcbrMonitorPortaController.pas',
   AcbrMonitorPorta in 'Model\Cadastros\AcbrMonitorPorta.pas',
-  AcbrMonitorPortaService in 'Service\Cadastros\AcbrMonitorPortaService.pas';
+  AcbrMonitorPortaService in 'Service\Cadastros\AcbrMonitorPortaService.pas',
+  Cfop in 'Model\Cadastros\Cfop.pas',
+  CfopService in 'Service\Cadastros\CfopService.pas',
+  CfopController in 'Controller\Cadastros\CfopController.pas';
 
 {$R *.res}
 

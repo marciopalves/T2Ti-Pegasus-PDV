@@ -30,6 +30,7 @@ uses
 
   // cadastros
   EmpresaController,
+  CfopController,
 
   // nfe
   NfeConfiguracaoController,
@@ -68,6 +69,7 @@ begin
 
   // cadastros
   FEngine.AddController(TEmpresaController);
+  FEngine.AddController(TCfopController);
 
   // nfe
   FEngine.AddController(TNfeConfiguracaoController);
